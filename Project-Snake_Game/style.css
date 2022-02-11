@@ -1,0 +1,13 @@
+.flex-container {
+  display: flex;
+}
+.center {
+  text-align: center;
+}
+#g_canvas {
+  background-image: url(./assets/bg.jpg);
+  background-size: cover;
+  width: 1000px;
+  height: 1000px;
+  border: 5px solid green;
+}
